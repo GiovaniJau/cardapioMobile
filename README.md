@@ -8,7 +8,5 @@ O **cardápioMobile** é um App para ser utilizado pelos atendentes de um bar, l
 
 Neste App, além da integração total com a API, utilizamos layouts mais complexos, com componentes roláveis e não roláveis inseridos em outros componentes roláveis.
 
-![N|Solid](https://github.com/GiovaniJau/cardapioMobile/blob/master/screenshots/cardapio_1.PNG)      ![N|Solid](https://github.com/GiovaniJau/cardapioMobile/blob/master/screenshots/cardapio_2.PNG)      ![N|Solid](https://github.com/GiovaniJau/cardapioMobile/blob/master/screenshots/cardapio_3.PNG)      ![N|Solid](https://github.com/GiovaniJau/cardapioMobile/blob/master/screenshots/cardapio_4.PNG)      ![N|Solid](https://github.com/GiovaniJau/cardapioMobile/blob/master/screenshots/cardapio_5.PNG)
-
-![N|Solid](https://github.com/GiovaniJau/cardapioMobile/blob/master/screenshots/cardapio.GIF)
+![N|Solid](https://github.com/GiovaniJau/cardapioMobile/blob/master/screenshots/cardapio_1.PNG)      ![N|Solid](https://github.com/GiovaniJau/cardapioMobile/blob/master/screenshots/cardapio_2.PNG)      ![N|Solid](https://github.com/GiovaniJau/cardapioMobile/blob/master/screenshots/cardapio_3.PNG)      ![N|Solid](https://github.com/GiovaniJau/cardapioMobile/blob/master/screenshots/cardapio_4.PNG)      ![N|Solid](https://github.com/GiovaniJau/cardapioMobile/blob/master/screenshots/cardapio_5.PNG)      ![N|Solid](https://github.com/GiovaniJau/cardapioMobile/blob/master/screenshots/cardapio.gif)
 
